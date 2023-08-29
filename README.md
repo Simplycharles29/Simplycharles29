@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning django, MySQL and how to connect them together<br>👯 I’m looking to collaborate on wed development-related projects<br>🌱 I’m would like to learn embedded C <br>💬 Ask me about anything related in web development<br>⚡ Fun fact - i can be lazy some times
+🔭 I’m currently learning node and express js with MongoDb<br>👯 I’m looking to collaborate on wed development-related projects<br>🌱 I’m would like to learn embedded C <br>💬 Ask me about anything related in web development<br>⚡ Fun fact - i can be lazy some times
 
 
 ## 🌐 Socials:
